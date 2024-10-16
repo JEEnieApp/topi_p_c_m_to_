@@ -3,7 +3,7 @@
   "ques": [
     {
       "question": [
-        "The \\ area  \\ of  \\ the \\ region  \\left\\{(x, y): x^{2} \\leq y \\leq 8-x^{2}, y \\leq 7\right\\} \\ is."
+        "The \\ area  \\ of  \\ the \\ region  \\left\\{(x, y): x^{2} \\leq y \\leq 8-x^{2}, y \\leq 7\\right\\} \\ is."
       ],
       "options": ["24", "21", "20", "18"],
       "answer": "3",
