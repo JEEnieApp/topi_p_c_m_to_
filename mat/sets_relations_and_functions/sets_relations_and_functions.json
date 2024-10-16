@@ -36,7 +36,7 @@
         "P^{\\mathrm{T}} \\cdot \\mathrm{P}=\\left[\\begin{array}{cc}\\sqrt{3} / 2 & -1 / 2 \\ 1 / 2 & \\sqrt{3} / 2\\end{array}\\right]\\left[\\begin{array}{cc}-\\sqrt{3} / 2 & 1 / 2 \\ -1 / 2 & \\sqrt{3} / 2\\end{array}\\right]=\\left[\\begin{array}{ll}1 & 0 \\ 0 & 1\\end{array}\\right]=I",
         "\\therefore \\mathrm{P}^{\\mathrm{T}}. \\mathrm{Q}^{2007}. \\mathrm{P}=\\mathrm{A}^{2007}",
         "A^{2}=\\left[\\begin{array}{ll}1 & 1 \\ 0 & 1\\end{array}\\right]\\left[\\begin{array}{ll}1 & 1 \\ 0 & 1\\end{array}\\right]=\\left[\\begin{array}{ll}1 & 2 \\ 0 & 1\\end{array}\\right]",
-        "\\therefore \\mathrm{A}^{2007}=\\left[\\begin{array}{cc}1 & 2007 \\ 0 & 1\\end{array}\\right]=\\left[\\begin{array}{ll}\\mathrm{a} & \\mathrm{b} \\ \\mathrm{c} & \\mathrm{d}\\end{array}\right]",
+        "\\therefore \\mathrm{A}^{2007}=\\left[\\begin{array}{cc}1 & 2007 \\ 0 & 1\\end{array}\\right]=\\left[\\begin{array}{ll}\\mathrm{a} & \\mathrm{b} \\ \\mathrm{c} & \\mathrm{d}\\end{array}\\right]",
         "\\mathrm{a}=1, \\mathrm{~b}=2007, \\mathrm{c}=0, \\mathrm{~d}=1",
         "2 a+b-3 c-4 d=2+2007-4=2005"
       ],
