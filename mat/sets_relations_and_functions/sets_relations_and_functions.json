@@ -3,7 +3,7 @@
   "ques": [
     {
       "question": [
-        "The \\ area  \\ of  \\ the \\ region  \\left\\{(x, y): x^{2} \\leq y \\leq 8-x^{2}, y \\leq 7\\right\\} \\ is."
+        "The \\ area  \\ of  \\ the \\ region","\\left\\{(x, y): x^{2} \\leq y \\leq 8-x^{2},"," y \\leq 7\\right\\} \\ is."
       ],
       "options": ["24", "21", "20", "18"],
       "answer": "3",
@@ -24,7 +24,7 @@
     },
     {
       "question": [
-        "Let \\mathrm{P}=\\left[\\begin{array}{cc}\\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\ -\\frac{1}{2} & \\frac{\\sqrt{3}}{2}\\end{array}\\right], \\mathrm{A}=\\left[\\begin{array}{ll}1 & 1 \\ 0 & 1\\end{array}\\right] and \\mathrm{Q}=\\mathrm{PAP}^{\\mathrm{T}}. If \\mathrm{P}^{\\mathrm{T}} \\mathrm{Q}^{2007} \\mathrm{P}=\\left[\\begin{array}{ll}\\mathrm{a} & \\mathrm{b} \\ \\mathrm{c} & \\mathrm{d}\\end{array}\\right], then 2 \\mathrm{a}+\\mathrm{b}-3 \\mathrm{c}-4 \\mathrm{~d} equal to"
+        "Let \\mathrm{P}=\\left[\\begin{array}{cc}\\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\ -\\frac{1}{2} & \\frac{\\sqrt{3}}{2}\\end{array}\\right],", " \\mathrm{A}=\\left[\\begin{array}{ll}1 & 1 \\ 0 & 1\\end{array}\\right] and"," \\mathrm{Q}=\\mathrm{PAP}^{\\mathrm{T}}."," If \\mathrm{P}^{\\mathrm{T}} \\mathrm{Q}^{2007} \\mathrm{P}=\\left[\\begin{array}{ll}\\mathrm{a} & \\mathrm{b} \\ \\mathrm{c} & \\mathrm{d}\\end{array}\\right],","  then 2 \\mathrm{a}+\\mathrm{b}-3 \\mathrm{c}-4 \\mathrm{~d} equal to"
       ],
       "options": ["2004", "2007", "2005", "2006"],
       "answer": "3",
