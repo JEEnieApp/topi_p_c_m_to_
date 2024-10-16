@@ -22,7 +22,8 @@
       ],
       "year": "",
       "id": 1,
-      "solutiondisplay": false
+      "solutiondisplay": false,
+      "selectedOption": 0
     },
     {
       "question": [
@@ -41,7 +42,8 @@
       ],
       "year": "",
       "id": 2,
-      "solutiondisplay": false
+      "solutiondisplay": false,
+      "selectedOption": 0
     }
   ],
   "version": 1
