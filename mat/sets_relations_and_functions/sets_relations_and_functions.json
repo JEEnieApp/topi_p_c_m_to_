@@ -23,7 +23,8 @@
       "year": "",
       "id": 1,
       "solutiondisplay": false,
-      "selectedOption": 0
+      "selectedOption": 0,
+      "solutiondisplayBtn": false 
     },
     {
       "question": [
@@ -43,7 +44,8 @@
       "year": "",
       "id": 2,
       "solutiondisplay": false,
-      "selectedOption": 0
+      "selectedOption": 0,
+      "solutiondisplayBtn": false 
     }
   ],
   "version": 1
