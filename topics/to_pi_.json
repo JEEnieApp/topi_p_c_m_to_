@@ -6,7 +6,8 @@
       "id": 1,
       "total_ques": "",
       "topics": "Sets and their representation: Union, intersection and complement of sets and their algebraic properties; Power set; Relation, Type of relations, equivalence relations, functions; one-one, into and onto functions, the composition of functions.",
-      "topiccode": "sets_relations_and_functions"
+      "topiccode": "sets_relations_and_functions",
+      "path":"mat/sets_relations_and_functions/sets_relations_and_functions.json"
     },
     {
       "label": "",
@@ -14,7 +15,8 @@
       "id": 2,
       "total_ques": "",
       "topics": "Complex numbers as ordered pairs of reals, Representation of complex numbers in the form a + ib and their representation in a plane, Argand diagram, algebra of complex number, modulus and argument (or amplitude) of a complex number, square root of a complex number, triangle inequality, Quadratic equations in real and complex number system and their solutions Relations between roots and coefficient, nature of roots, the formation of quadratic equations with given roots.",
-      "topiccode": "complex_numbers_and_quadratic_equations"
+      "topiccode": "complex_numbers_and_quadratic_equations",
+      "path":""
     },
     {
       "label": "",
@@ -22,7 +24,8 @@
       "id": 3,
       "total_ques": "",
       "topics": "Matrices, algebra of matrices, type of matrices, determinants and matrices of order two and three, properties of determinants, evaluation of determinants, area of triangles using determinants, Adjoint and evaluation of inverse of a square matrix using determinants and elementary transformations, Test of consistency and solution of simultaneous linear equations in two or three variables using determinants and matrices.",
-      "topiccode": "matrices_and_determinants"
+      "topiccode": "matrices_and_determinants",
+      "path":""
     },
     {
       "label": "",
@@ -30,7 +33,8 @@
       "id": 4,
       "total_ques": "",
       "topics": "The fundamental principle of counting, permutation as an arrangement and combination as section, Meaning of P (n,r) and C (n,r), simple applications.",
-      "topiccode": "permutations_and_combinations"
+      "topiccode": "permutations_and_combinations",
+      "path":""
     },
     {
       "label": "",
@@ -38,7 +42,8 @@
       "id": 5,
       "total_ques": "",
       "topics": "Binomial theorem for a positive integral index, general term and middle term, properties of Binomial coefficients and simple applications.",
-      "topiccode": "binomial_theorem_and_its_simple_applications"
+      "topiccode": "binomial_theorem_and_its_simple_applications",
+      "path":""
     },
     {
       "label": "",
@@ -46,7 +51,8 @@
       "id": 6,
       "total_ques": "",
       "topics": "Arithmetic and Geometric progressions, insertion of arithmetic, geometric means between two given numbers, Relation between A.M and G.M sum up to n terms of special series; Sn, Sn2, Sn3. Arithmetico-Geometric progression.",
-      "topiccode": "sequence_and_series"
+      "topiccode": "sequence_and_series",
+      "path":""
     },
     {
       "label": "",
@@ -54,7 +60,8 @@
       "id": 7,
       "total_ques": "",
       "topics": "Real _ valued functions, algebra of functions, polynomials, rational, trigonometric, logarithmic and exponential functions, inverse function. Graphs of simple functions. Limits, continuity and differentiability. Differentiation of the sum, difference, product and quotient of two functions. Differentiation of trigonometric, inverse trigonometric, logarithmic, exponential, composite and implicit functions; derivatives of order up to two, Rolle's and Lagrange's Mean value Theorems, Applications of derivatives: Rate of change of quantities, monotonic Increasing and decreasing functions, Maxima and minima of functions of one variable, tangents and normal.",
-      "topiccode": "limits_continuity_and_differentiability"
+      "topiccode": "limits_continuity_and_differentiability",
+      "path":""
     },
     {
       "label": "",
@@ -62,7 +69,8 @@
       "id": 8,
       "total_ques": "",
       "topics": "Integral as an anti-derivative, Fundamental Integrals involving algebraic, trigonometric, exponential and logarithms functions. Integrations by substitution, by parts and by partial functions. Integration using trigonometric identities. Evaluation of simple integrals of the type ∫ dx / (x^2 + a^2), ∫ dx / √(x^2 ± a^2), ∫ dx / (a^2 − x^2), ∫ dx / √(a^2 − x^2), ∫ dx / (ax^2 + bx + c), ∫ dx / √(ax^2 + bx + c), ∫ (px + q) dx / (ax^2 + bx + c), ∫ (px + q) dx / √(ax^2 + bx + c), ∫ √(a^2 ± x^2) dx, ∫ √(x^2 - a^2) dx. Integral as limit of a sum. The fundamental theorem of calculus, properties of definite integrals. Evaluation of definite integrals, determining areas of the regions bounded by simple curves in standard form.",
-      "topiccode": "integral_calculus"
+      "topiccode": "integral_calculus",
+      "path":""
     },
     {
       "label": "",
@@ -70,7 +78,8 @@
       "id": 9,
       "total_ques": "",
       "topics": "Ordinary differential equations, their order and degree, the formation of differential equations, solution of differential equation by the method of separation of variables, solution of a homogeneous and linear differential equation of the type dy/dx + p(x)y = q(x).",
-      "topiccode": "differential_equations"
+      "topiccode": "differential_equations",
+      "path":""
     },
     {
       "label": "",
@@ -78,7 +87,8 @@
       "id": 10,
       "total_ques": "",
       "topics": "Cartesian system of rectangular coordinates in a plane, distance formula, sections formula, locus and its equation, translation of axes, the slope of a line, parallel and perpendicular lines, intercepts of a line on the co-ordinate axis. Straight line: Various forms of equations of a line, intersection of lines, angles between two lines, conditions for concurrence of three lines, the distance of a point from a line, equations of internal and external bisectors of angles between two lines, coordinates of the centroid, orthocentre and circumcentre of a triangle, equation of the family of lines passing through the point of intersection of two lines. Circle, conic sections: A standard form of equations of a circle, the general form of the equation of a circle, its radius and center, equation of a circle when the endpoints of a diameter are given, points of intersection of a line and a circle with the center at the origin and condition for a line to be tangent to a circle, equation of the tangent, sections of conics, equations of conic sections (parabola, ellipse and hyperbola) in standard forms, condition for Y = mx + c to be a tangent and point(s) of tangency.",
-      "topiccode": "coordinate_geometry"
+      "topiccode": "coordinate_geometry",
+      "path":""
     },
     {
       "label": "",
@@ -86,7 +96,8 @@
       "id": 11,
       "total_ques": "",
       "topics": "Coordinates of a point in space, the distance between two points, section formula, direction ratios and direction cosines, the angle between two intersecting lines. Skew lines, the shortest distance between them and its equation. Equations of a line.",
-      "topiccode": "three_dimensional_geometry"
+      "topiccode": "three_dimensional_geometry",
+      "path":""
     },
     {
       "label": "",
@@ -94,7 +105,8 @@
       "id": 12,
       "total_ques": "",
       "topics": "Vectors and scalars, the addition of vectors, components of a vector in two dimensions and three-dimensional space, scalar and vector products, scalar and vector triple product.",
-      "topiccode": "vector_algebra"
+      "topiccode": "vector_algebra",
+      "path":""
     },
     {
       "label": "",
@@ -102,7 +114,8 @@
       "id": 13,
       "total_ques": "",
       "topics": "Measures of dispersion; calculation of mean, median, mode of grouped and ungrouped data, calculation of standard deviation, variance and mean deviation for grouped and ungrouped data. Probability: Probability of an event, addition and multiplication theorems of probability, Bayes' theorem, probability distribution of a random variable, Bernoulli trials and binomial distribution.",
-      "topiccode": "statistics_and_probability"
+      "topiccode": "statistics_and_probability",
+      "path":""
     },
 
     {
@@ -111,9 +124,11 @@
       "id": 14,
       "total_ques": "",
       "topics": "Trigonometrical identities and equations, trigonometrical functions, inverse trigonometrical functions and their properties, heights and distance.",
-      "topiccode": "trigonometry"
+      "topiccode": "trigonometry",
+      "path":""
     }
   ],
   "physics": [],
-  "chemistry": []
+  "chemistry": [],
+  "path":"https://raw.githubusercontent.com/JEEnieApp/topi_p_c_m_to_/refs/heads/main/"
 }
