@@ -24,7 +24,8 @@
       "id": 1,
       "solutiondisplay": false,
       "selectedOption": 0,
-      "solutiondisplayBtn": false 
+      "solutiondisplayBtn": false,
+      "mode": "easy"
     },
     {
       "question": [
@@ -45,7 +46,8 @@
       "id": 2,
       "solutiondisplay": false,
       "selectedOption": 0,
-      "solutiondisplayBtn": false 
+      "solutiondisplayBtn": false,
+      "mode": "easy"
     }
   ],
   "version": 1
