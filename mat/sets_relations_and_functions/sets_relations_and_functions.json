@@ -48,7 +48,38 @@
       "selectedOption": 0,
       "solutiondisplayBtn": false,
       "mode": "easy"
+    },
+
+
+
+    {
+      "question": [
+        "Negation of $(\\mathrm{p} \\rightarrow \\mathrm{q}) \\rightarrow(\\mathrm{q} \\rightarrow \\mathrm{p})$ is"
+      ],
+      "options": [
+        "(-q) \\wedge p",
+        "\\mathrm{p} \\vee(\\sim \\mathrm{q}",
+        "\\sim \\mathrm{p}) \\vee \\mathrm{q}",
+        "\\mathrm{q} \\wedge(\\sim \\mathrm{p})"
+      ],
+      "answer": 4,
+      "solution": [
+        "img_key_3"
+      ],
+      "year": "",
+      "id": 3,
+      "solutiondisplay": false,
+      "selectedOption": 0,
+      "solutiondisplayBtn": false,
+      "mode": "easy"
     }
+
+
+
+
+
+
+
   ],
   "version": 1
 }
