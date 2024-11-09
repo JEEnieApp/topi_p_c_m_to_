@@ -62,7 +62,7 @@
         "\\sim \\mathrm{p}) \\vee \\mathrm{q}",
         "\\mathrm{q} \\wedge(\\sim \\mathrm{p})"
       ],
-      "answer": 4,
+      "answer": 4, 
       "solution": [
         "img_key_3"
       ],
