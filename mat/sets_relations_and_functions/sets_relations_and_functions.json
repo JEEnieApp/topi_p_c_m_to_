@@ -54,7 +54,7 @@
 
     {
       "question": [
-        "Negation of $(\\mathrm{p} \\rightarrow \\mathrm{q}) \\rightarrow(\\mathrm{q} \\rightarrow \\mathrm{p})$ is"
+        "Negation \\ of  \\mathrm{p} \\rightarrow \\mathrm{q}) \\rightarrow(\\mathrm{q} \\rightarrow \\mathrm{p} \\ is"
       ],
       "options": [
         "(-q) \\wedge p",
