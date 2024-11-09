@@ -59,7 +59,7 @@
       "options": [
         "(-q) \\wedge p",
         "\\mathrm{p} \\vee(\\sim \\mathrm{q}",
-        "\\sim \\mathrm{p}) \\vee \\mathrm{q}",
+        "\\sim \\(mathrm{p}) \\vee \\mathrm{q}",
         "\\mathrm{q} \\wedge(\\sim \\mathrm{p})"
       ],
       "answer": 4, 
