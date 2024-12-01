@@ -137,6 +137,23 @@
       "topics": "Units of measurements, System of units, SI Units, fundamental and derived units, least count, significant figures, Errors in measurements. Dimensions of Physics quantities, dimensional analysis and its applications.",
       "topiccode": "Units_and_Measurements",
       "path":""
+    },
+    {
+      "label": "",
+      "unit": "Kinematics",
+      "id": 16,
+      "total_ques": "",
+      "topics": "The frame of reference, motion in a straight line, speed and velocity, uniformand non-uniform motion, average speed and instantaneous velocity, uniformlyaccelerated motion, velocity-time, position-time graph, relations for uniformlyaccelerated motion, relative velocity. Motion in a plane, projectile motion, uniform circular motion.",
+      "topiccode": "Kinematics",
+      "path":""
+    },{
+      "label": "",
+      "unit": "Laws of Motion",
+      "id": 17,
+      "total_ques": "",
+      "topics": "Force and inertia, Newton’s first law of motion, momentum, Newton’s secondLaw of motion, impulse, Newton’s third Law of motion. Law of conservation of linear momentum and its applications, equilibrium of concurrent forces. \n Static and Kinetic friction, laws of friction, rolling friction. \n Dynamics of uniform circular motion, centripetal force and its applications: vehicle on a level circular road, vehicle on a banked road",
+      "topiccode": "Units_and_Measurements",
+      "path":""
     }
   ],
   "chemistry": [],
