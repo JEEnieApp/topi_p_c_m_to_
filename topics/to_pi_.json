@@ -152,9 +152,57 @@
       "id": 17,
       "total_ques": "",
       "topics": "Force and inertia, Newton’s first law of motion, momentum, Newton’s secondLaw of motion, impulse, Newton’s third Law of motion. Law of conservation of linear momentum and its applications, equilibrium of concurrent forces. \n Static and Kinetic friction, laws of friction, rolling friction. \n Dynamics of uniform circular motion, centripetal force and its applications: vehicle on a level circular road, vehicle on a banked road",
-      "topiccode": "Units_and_Measurements",
+      "topiccode": "Laws_of_Motion",
       "path":""
-    }
+      },{
+        "label": "",
+        "unit": "Work, Energy and Power",
+        "id": 18,
+        "total_ques": "",
+        "topics": "Work done by a constant force and a variable force, kinetic and potential energies, work-energy theorem, power. The potential energy of a spring, conservation of mechanical energy, conservative and non- conservative forces, motion in a vertical circle. Elastic and inelastic collisions in one and two dimensions",
+        "topiccode": "Work_Energy_and_Power",
+        "path":""
+      },{
+        "label": "",
+        "unit": "Rotational Motion",
+        "id": 19,
+        "total_ques": "",
+        "topics": "Centre of mass of a two-particle system, centre of mass of a rigid body. Basic concepts of rotational motion, moment of a force, torque, angular momentum, conservation of angular momentum and its applications. The moment of inertia, the radius of gyration, values of moments of inertia for simple geometrical objects, parallel and perpendicular axes theorems and their applications. Equilibrium of rigid bodies, rigid body rotation and equations of rotational motion, comparison of linear and rotational motions.",
+        "topiccode": "Rotational_Motion",
+        "path":""
+      },{
+        "label": "",
+        "unit": "Gravitation",
+        "id": 20,
+        "total_ques": "",
+        "topics": "The universal law of gravitation. Acceleration due to gravity and its variationwith altitude and depth. Kepler’slaw of planetary motion. Gravitational potential energy, gravitational potential. Escape velocity, motion of a satellite, orbital velocity, time period and energy of satellite.",
+        "topiccode": "Gravitation",
+        "path":""
+      },{
+        "label": "",
+        "unit": "Properties of Solids and Liquids",
+        "id": 21,
+        "total_ques": "",
+        "topics": "Elastic behaviour, stress-strain relationship, Hooke's Law, Young's modulus, bulk modulus and modulus of rigidity. Pressure due to a fluid column, Pascal's law and its applications, effect of gravityon fluid pressure, viscosity, Stoke’s law, terminal velocity, streamline andturbulent flow, critical velocity, Bernoulli's principle and its applications. Surface energy and surface tension, angle of contact, excess of pressure across a curved surface, application of surface tension: drops, bubbles and capillary rise. Heat, temperature, thermal expansion, specific heat capacity, calorimetry, change of state, latent heat. Heat transfer: conduction, convection and radiation.",
+        "topiccode": "Properties_of_Solids_and_Liquids",
+        "path":""
+      },{
+        "label": "",
+        "unit": "Thermodynamics",
+        "id": 22,
+        "total_ques": "",
+        "topics": "Thermal equilibrium and the concept of temperature, zeroth lawof thermodynamics, heat, work and internal energy. The first lawof thermodynamics, isothermal and adiabatic processes. The second lawof thermodynamics: reversible and irreversible processes.",
+        "topiccode": "Thermodynamics",
+        "path":""
+      },{
+        "label": "",
+        "unit": "Kinetic Theory of Gases",
+        "id": 23,
+        "total_ques": "",
+        "topics": "Equation of state of a perfect gas, work done on compressing a gas, kinetic theory of gases: assumptions, the concept of pressure, kinetic interpretation of temperature, RMS speed of gas molecules, degrees of freedom, lawof equipartition of energy and applications to specific heat capacities of gases, mean free path, Avogadro's number.",
+        "topiccode": "Kinetic_Theory_of_Gases",
+        "path":""
+      }
   ],
   "chemistry": [],
   "path":"https://raw.githubusercontent.com/JEEnieApp/topi_p_c_m_to_/refs/heads/main/"
