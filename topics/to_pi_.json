@@ -128,7 +128,17 @@
       "path":""
     }
   ],
-  "physics": [],
+  "physics": [
+    {
+      "label": "",
+      "unit": "Units and Measurements",
+      "id": 15,
+      "total_ques": "",
+      "topics": "Units of measurements, System of units, SI Units, fundamental and derived units, least count, significant figures, Errors in measurements. Dimensions of Physics quantities, dimensional analysis and its applications.",
+      "topiccode": "Units_and_Measurements",
+      "path":""
+    }
+  ],
   "chemistry": [],
   "path":"https://raw.githubusercontent.com/JEEnieApp/topi_p_c_m_to_/refs/heads/main/"
 }
