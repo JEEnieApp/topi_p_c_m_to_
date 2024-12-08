@@ -2,19 +2,19 @@
     "topics": [
         {
             "name": "Physics",
-            "path": "physics_home_icon",
+            "path": "phy_home_icon",
             "class": "physics",
             "icon":"phy_home_icon"
         },
         {
             "name": "Chemistry",
-            "path": "chemistry_home_icon",
+            "path": "chem_home_icon",
             "class": "chemistry",
             "icon":"chem_home_icon"
         },
         {
             "name": "Maths",
-            "path": "maths_home_icon",
+            "path": "mat_home_icon",
             "class": "maths",
             "icon":"mat_home_icon"
         }
