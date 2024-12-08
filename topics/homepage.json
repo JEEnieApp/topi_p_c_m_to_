@@ -66,5 +66,8 @@
             "footer":"",
             "background":""
         }
-    }
+    },
+    "title":"Hi, Future IIT'ian", 
+    "quesoftheday": "Questions Of the Day",
+    "asst": "topi_p_c_m_to_/refs/heads/main/topics/assets/"
 }
