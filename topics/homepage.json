@@ -1,0 +1,56 @@
+{
+    "topics": [
+        {
+            "name": "Physics",
+            "path": "physics_home_icon"
+        },
+        {
+            "name": "Chemistry",
+            "path": "chemistry_home_icon"
+        },
+        {
+            "name": "Maths",
+            "path": "maths_home_icon"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Physics",
+            "path": "physics_home_icon"
+        }
+    ],
+    "banner": [
+        {
+            "name": "Physics",
+            "path": "physics_home_icon"
+        },
+        {
+            "name": "Chemistry",
+            "path": "chemistry_home_icon"
+        },
+        {
+            "name": "Maths",
+            "path": "maths_home_icon"
+        }
+    ],
+    "Instructions": {
+        "quesOfTheDay": {
+            "header":"",
+            "instruction":"",
+            "footer":"",
+            "background":""
+        },
+        "test": {
+            "header":"",
+            "instruction":"",
+            "footer":"",
+            "background":""
+        },
+        "practice": {
+            "header":"",
+            "instruction":"",
+            "footer":"",
+            "background":""
+        }
+    }
+}
