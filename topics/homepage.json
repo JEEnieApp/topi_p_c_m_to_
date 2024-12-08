@@ -68,6 +68,10 @@
         }
     },
     "title":"Hi, Future IIT'ian", 
-    "quesoftheday": "Target Of the Day",
+    "quesoftheday": {
+        "title":"Hi, Future IIT'ian",
+        "desc":"",
+        "path": ""
+    },
     "asst": "topics/assets/"
 }
