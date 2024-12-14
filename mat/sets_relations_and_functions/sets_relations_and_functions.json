@@ -76,7 +76,34 @@
       "selectedOption": 0,
       "solutiondisplayBtn": false,
       "mode": "easy"
-    } 
+    },{
+  "question": [
+    "\\therefore _{1} = 1, \\ t_{2} = 2",
+    "P = (5, 10), \\ Q = ",
+    "\\therefore \\text{ Equation of PQ: } y - 10 = 0(x - 5)",
+    "3y - 30 = 2x - 10",
+    "y = \\frac{2}{3}x + \\frac{20}{3}",
+    "\\text{Answer: (1)}"
+  ],
+  "solution": [
+    "\\text{sol. vowels: I E.E.E E}",
+    "\\text{Consonants: N N / 100}",
+    "\\frac{|EEE\\theta|}{3N} \\ 2D, P, C",
+    "\\text{Number of required words = } \\frac{8}{31}"
+  ],
+  "options": [
+    "(1) 6 \\sqrt{3}",
+    "(2) 6 \\sqrt{2}"
+  ],
+  "answer": 1,
+  "solutionsteps": [
+    "\\text{sol. } \\overrightarrow{h} \\times \\overrightarrow{i_{2}} = \\begin{vmatrix} i & j \\\\ 4 & 5 \\\\ 3 & 4 \\end{vmatrix}",
+    "= -2i + j + k",
+    "|\\frac{16 - 5 - 7}{6}|",
+    "= 3 \\sqrt{6}"
+  ]
+}
+
 
   ],
   "version": 1
