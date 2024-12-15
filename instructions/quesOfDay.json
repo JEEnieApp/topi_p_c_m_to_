@@ -1,0 +1,14 @@
+{
+    "instructions": [
+        "Each quiz contains 15 non-repeating random questions.",
+        "You will have 30 minutes  to complete the quiz.",
+        "Once you answer a question, you cannot go back to change it.",
+        "Each correct answer awards  10 points .",
+        "There is no negative marking for incorrect answers.",
+        "Ensure a stable internet connection during the quiz.",
+        "The quiz auto-submits when the timer runs out."
+    ],
+    "startbtn":"",
+    "backbtn": "",
+    "title":"General QOD Guidelines"
+}
