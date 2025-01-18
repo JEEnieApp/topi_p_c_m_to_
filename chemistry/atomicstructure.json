@@ -1,0 +1,91 @@
+ 
+{
+    "asst": "mat/sets_relations_and_functions/assets/",
+    "ques": [
+      {
+        "question": [
+          "The \\ area  \\ of  \\ the \\ region\\", 
+          "\\left\\{(x, y): x^{2} \\leq y \\leq 8 - x^{2}  y \\leq 7\\right\\} \\ is."],
+        "options": ["24", "21", "20", "18"],
+        "answer": 3,
+        "solution": [
+          "y \\geq x^{2} \\quad y \\leq 8-x^{2} \\quad y \\leq 7",
+          "x^{2}=8-x^{2}",
+          "x^{2}=4",
+          "x^{2}=4",
+          "x= \\pm 2",
+          "img_key_1",
+          "img_key_4",
+          "2\\left(1.7+\\int_{1}^{2}\\left(8-2 x^{2}\\right) d x\\right)-2 \\int_{0}^{1}\\left(x^{2}\\right) d x",
+          "=2\\left[7+\\left(8 x-\\frac{2 x^{3}}{3}\\right)_{1}^{2}\\right]-2\\left(\\frac{x^{3}}{3}\\right)_{0}^{1}",
+          "=2\\left[7+\\left(16-\\frac{16}{3}\\right)-\\left(8-\\frac{2}{3}\\right)\\right]-2\\left(\\frac{1}{3}\\right)",
+          "=2\\left[7+\\frac{32}{3}-\\frac{22}{3}\\right]=2\\left[7+\\frac{10}{3}\\right] \\frac{-2}{3}",
+          "=\\frac{60}{3}=20", 
+          "|A| = 2(3) - 1(2) = 4",
+      "\\therefore \\text{Now } |\\text{adj}(\\text{adj}(\\text{adj}(2A)))|",
+      "\\therefore |2A|^{(n-1)^3}",
+      "= |2A|^8 = 2^{24} \\cdot 4^8",
+      "= 2^4 = 16^{10}",
+      "\\therefore \\boxed{n = 10}"
+        ],
+        "year": "",
+        "id": 1,
+        "solutiondisplay": false,
+        "selectedOption": 0,
+        "solutiondisplayBtn": false,
+        "mode": "easy"
+      },
+      {
+        "question": [
+          "Let \\mathrm{P}=\\left[\\begin{array}{cc}\\frac{\\sqrt{3}}{2} & \\frac{1}{2} \\ -\\frac{1}{2} & \\frac{\\sqrt{3}}{2}\\end{array}\\right],", " \\mathrm{A}=\\left[\\begin{array}{ll}1 & 1 \\ 0 & 1\\end{array}\\right] and"," \\mathrm{Q}=\\mathrm{PAP}^{\\mathrm{T}}."," If \\mathrm{P}^{\\mathrm{T}} \\mathrm{Q}^{2007} \\mathrm{P}=\\left[\\begin{array}{ll}\\mathrm{a} & \\mathrm{b} \\ \\mathrm{c} & \\mathrm{d}\\end{array}\\right],","  then 2 \\mathrm{a}+\\mathrm{b}-3 \\mathrm{c}-4 \\mathrm{~d} equal to"
+        ],
+        "options": ["2004", "2007", "2005", "2006"],
+        "answer": 3,
+        "solution": [
+          "img_key_2",
+          "P^{\\mathrm{T}} \\cdot \\mathrm{P}=\\left[\\begin{array}{cc}\\sqrt{3} / 2 & -1 / 2 \\ 1 / 2 & \\sqrt{3} / 2\\end{array}\\right]\\left[\\begin{array}{cc}-\\sqrt{3} / 2 & 1 / 2 \\ -1 / 2 & \\sqrt{3} / 2\\end{array}\\right]=\\left[\\begin{array}{ll}1 & 0 \\ 0 & 1\\end{array}\\right]=I",
+          "\\therefore \\mathrm{P}^{\\mathrm{T}}. \\mathrm{Q}^{2007}. \\mathrm{P}=\\mathrm{A}^{2007}",
+          "A^{2}=\\left[\\begin{array}{ll}1 & 1 \\ 0 & 1\\end{array}\\right]\\left[\\begin{array}{ll}1 & 1 \\ 0 & 1\\end{array}\\right]=\\left[\\begin{array}{ll}1 & 2 \\ 0 & 1\\end{array}\\right]",
+          "\\therefore \\mathrm{A}^{2007}=\\left[\\begin{array}{cc}1 & 2007 \\ 0 & 1\\end{array}\\right]=\\left[\\begin{array}{ll}\\mathrm{a} & \\mathrm{b} \\ \\mathrm{c} & \\mathrm{d}\\end{array}\\right]",
+          "\\mathrm{a}=1, \\mathrm{~b}=2007, \\mathrm{c}=0, \\mathrm{~d}=1",
+          "2 a+b-3 c-4 d=2+2007-4=2005"
+        ],
+        "year": "",
+        "id": 2,
+        "solutiondisplay": false,
+        "selectedOption": 0,
+        "solutiondisplayBtn": false,
+        "mode": "easy"
+      },  
+      {
+        "question": [
+          "Let ( A = \\begin{bmatrix} 2 & 1 & 0 \\ 1 & 2 & -1 \\ 0 & -1 & 2 \\end{bmatrix}. \n",
+          "\\text{If } |adj(adj(adj2A)|=  (16)^ {n},  ",
+          " \\text{then } n \\text{ is equal to:}\n"
+        ],
+        "options": [
+          "8",
+          "10",
+          "9",
+          "12"
+        ],
+        "answer": 1,
+        "solution": [
+          "\\text{Sol. } |A| = 2(3). \n\n\n",
+          "\\therefore \\, | \\text{adj}(\\text{adj}(\\text{adj}(2A))) | =  \n",
+          "\\therefore \\, |2A|^{(n-1)^3}\n",
+          "|2A|^8 = 2^{24} \\cdot 4^8\n",
+          " = 2^4 = 16^{10} \\n\\therefore \\boxed{n = 10} \n"
+        ],
+        "year": "",
+        "id": 3,
+        "solutiondisplay": false,
+        "selectedOption": 0,
+        "solutiondisplayBtn": false,
+        "mode": "easy",
+        "subject": "physics",
+        "topic": ""
+      }   
+   ],
+    "version": 1
+  }
